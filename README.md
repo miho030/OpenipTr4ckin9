@@ -22,6 +22,21 @@ https://pypi.python.org/pypi/pygeoip
 
 """
 
+==========================================
+# You may need some modifications to drive this script.
+당신은 이 스크립트를 구동하기 위해서 약간의 수정이 필요할 수도 있습니다.
+
+# Within the source code, the default path for the database is : C:\ Python27 \ GeoDB \ GeoLiteCity.dat')
+소스코드 안에서 데이터베이스의 기본 경로는 ('C:\Python27\GeoDB\GeoLiteCity.dat')입니다.
+
+# If you put the file in the Python basic installation path, you won't need a separate modifications.
+만약 당신이 python 기본 설치 경로에 파일을 넣어놓는다면 별도의 수정이 필요없겠지만요
+
+# To run in your system specific directory, you need to modify the database path.
+당신의 시스템 특정 디렉토리에서 실행할려면 데이터베이스 경로에 대한 수정이 필요합니다.
+
+
+
 This Script is made by nicht
 이 스크립트는 nicht에 의해 .
 중산고 31227 이준성
