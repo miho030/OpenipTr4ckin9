@@ -1,6 +1,9 @@
 # -*- coding: utf-8 -*-
+
 # OpenipTr4ckin9
 Find attackers Physical location using IP Addr
+공격자의 IP주소를 물리적인 위치로 바꾸어주는 것
+
 
 
 # This program was made using the GeoIP database.
@@ -16,6 +19,7 @@ Find attackers Physical location using IP Addr
 해당 라이브러리의 링크는 아래와 같습니다.
 
 pygeoip - lastest version => 0.3.2
+pygeoip - 가장 최근의 버전 => 0.3.2
 """
 
 https://pypi.python.org/pypi/pygeoip
@@ -26,7 +30,7 @@ https://pypi.python.org/pypi/pygeoip
 # You may need some modifications to drive this script.
 당신은 이 스크립트를 구동하기 위해서 약간의 수정이 필요할 수도 있습니다.
 
-# Within the source code, the default path for the database is : C:\ Python27 \ GeoDB \ GeoLiteCity.dat')
+# Within the source code, the default path for the database is : ('C:\ Python27 \ GeoDB \ GeoLiteCity.dat')
 소스코드 안에서 데이터베이스의 기본 경로는 ('C:\Python27\GeoDB\GeoLiteCity.dat')입니다.
 
 # If you put the file in the Python basic installation path, you won't need a separate modifications.
@@ -38,7 +42,7 @@ https://pypi.python.org/pypi/pygeoip
 
 
 This Script is made by nicht
-이 스크립트는 nicht에 의해 .
+이 스크립트는 nicht에 의해 개발되었습니다
 중산고 31227 이준성
 JS HighSchool Lee Joon Sung; Republick of Korea seoul, Gangnam gaepodong
 Email : miho0_0@naver.com
