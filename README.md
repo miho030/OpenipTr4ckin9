@@ -39,11 +39,11 @@ https://pypi.python.org/pypi/pygeoip
 # To run in your system specific directory, you need to modify the database path.
 당신의 시스템 특정 디렉토리에서 실행할려면 데이터베이스 경로에 대한 수정이 필요합니다.
 
+"""
 
 
 This Script is made by nicht
 이 스크립트는 nicht에 의해 개발되었습니다
-중산고 31227 이준성
 JS HighSchool Lee Joon Sung; Republick of Korea seoul, Gangnam gaepodong
 Email : miho0_0@naver.com
 gmail, youtube : anonymous0korea0@gmail.com
