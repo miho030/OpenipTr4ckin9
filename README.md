@@ -41,9 +41,9 @@ If you put the file in the Python basic installation path, you won't need a sepa
 
 ## Informations of Coder
 
-This Script is made by nicht
-이 스크립트는 nicht에 의해 개발되었습니다
-JS HighSchool Lee Joon Sung; Republick of Korea seoul, Gangnam gaepodong
-Email : miho0_0@naver.com
-gmail, youtube : anonymous0korea0@gmail.com
+This Script is made by nicht.  
+이 스크립트는 nicht에 의해 개발되었습니다.  
+JS HighSchool Lee Joon Sung; Republick of Korea seoul, Gangnam gaepodong.  
+Email : miho0_0@naver.com  
+gmail, youtube : anonymous0korea0@gmail.com  
 
