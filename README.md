@@ -1,8 +1,8 @@
 # OpenipTr4ckin9    
 
 ## Hi, Im noob Opensource Program coder, Nicht.  
-DDoS or APT attack, Sophisticated Malware for specific purpos, Keylogger, backdoor, spyware, network invation...~  
-Those attacks necessarily include the attacker's IP address.  
+If System Server has been attacked by DDoS or APT hacking, Sophisticated Malware for specific purpos, Keylogger, backdoor, spyware, network invation.....~  
+Those attacks necessarily include the attacker's IP address. and GeoIP DataBase have ISP(Internet Service Provider)'s Latitude and Longitude. 
 If System manager find some data about Attackers trace, This Program might useful for international legal litigation.  
 This program is following GNU/GPL.ver3, so anyone can modificate This script for own purpos.  
 But, keep in mind that tracking other people's information may be subject to law.  
@@ -14,7 +14,7 @@ You Just need IP addr which is you want to know IPs physical location, about [Co
 This program was made using the GeoIP database.      
 This Script was created with Python 2.7.    
 
-**Reqirements Libs are :**  
+** Your Reqirements Libs are.. :**  
 + pygeoip  
 + os  
 + sys    
