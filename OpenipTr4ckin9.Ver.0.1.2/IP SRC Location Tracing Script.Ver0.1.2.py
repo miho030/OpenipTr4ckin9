@@ -11,15 +11,19 @@ import pygeoip
 
 
 
-print '==========================================================================='
-print  "IP Tracking Script [OpenIPTr4ckin9]; made by Nicht"
-print  "CopyRight (C) 1995-2017 GNU/GPL, Lee Joon Sung"
-print '==========================================================================='
+print ("#===========================================================================#")
+print ("#                       OpenipTr4ckin9.Ver0.1.2                             #")
+print ("#---------------------------------------------------------------------------#")
+print ("#                                                                           #")
+print ("#          IP Tracking Script [OpenIPTr4ckin9]; made by Nicht               #")
+print ("#             CopyRight (C) 2016-2017 GNU/GPL, Lee Joon Sung                #")
+print ("#                                                                           #")
+print ("#===========================================================================#")
 
 gi = pygeoip.GeoIP('GeoLiteCity.dat')
 ip = raw_input("추적할 공격자 IP 주소 입력:  ")
 
-def name()
+
 
 def printTGTinfor(tgt):
     if os.path.isfile('GeoLiteCity.dat'):
