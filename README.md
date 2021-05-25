@@ -47,5 +47,4 @@ If you put the file in the Python basic installation path, you won't need a sepa
 This Script is made by nicht.    
 JS HighSchool Lee Joon Sung; Republick of Korea seoul, Gangnam gaepodong.  
 Email : miho0_0@naver.com  
-gmail, youtube : anonymous0korea0@gmail.com  
 
